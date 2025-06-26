@@ -1,0 +1,6 @@
+{
+  "name": ".sAtd FormatterV2",
+  "description": "A tool to analyze project folders and generate a structured .sAtd (Structured Ai Transfer Document) knowledge file, optionally using AI for content description and analysis.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
