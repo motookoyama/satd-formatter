@@ -47,6 +47,33 @@ The formatter scans any application folder (Electron / Web / LLM settings, etc.)
 - `.sAtd` is an open knowledge compression format, free for anyone to use and expand.
 - However, the structure and templates are copyright protected. Please refrain from commercial use or naming that goes against the original intent.
 
+## サンプルファイル配布
+
+`sample_sAtd` フォルダ内に、.sAtd形式のサンプルファイルを同梱しています。
+ご自由にダウンロード・ご利用ください。
+
+### サンプルファイル一覧
+
+- UTILITYsAtd/
+  - IZAKAYA lite.sAtd
+  - Assistant_UTILITY.sAtd
+  - Mr.MCP_UTILITY.sAtd
+- RPGsAtd/
+  - VMC.sAtd
+  - AIwhispera.sAtd
+  - おざなりダンジョン.sAtd
+  - the White House cat.sAtd
+
+---
+
+## Webアプリで試す
+
+このアプリはGoogle Vertex AI Studioで構築され、Cloud Runで公開されています。
+
+🌐 [Webアプリを試す](https://satd-formatterv2-95139013565.us-west1.run.app/)
+
+> ⚠️ 注意：このバージョンは一般公開されています。機密データのアップロードはご遠慮ください。
+
 ---
 
 Thank you for continuing the story.
